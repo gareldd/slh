@@ -2,7 +2,7 @@
   <img src="assets/readme/SLHmain.png" width="360" alt="Smile LauncHer">
 </p>
 
-<h1 align="center">Smile LauncHer</h1>
+<h1 align="center">"W.I.P." Smile LauncHer</h1>
 
 <p align="center">
   A modern, open-source Minecraft: Java Edition launcher for Windows.
