@@ -2,7 +2,7 @@
   <img src="assets/readme/SLHmain.png" width="360" alt="Smile LauncHer">
 </p>
 
-<h1 align="center">"W.I.P." Smile LauncHer</h1>
+<h1 align="center">Smile LauncHer</h1>
 
 <p align="center">
   A modern, open-source Minecraft: Java Edition launcher for Windows.
@@ -30,9 +30,9 @@
 
 ## About
 
-**Smile LauncHer (SLH)** is an open-source Minecraft: Java Edition launcher focused on powerful instance management, customization, modding and a clean desktop experience.
+**Smile LauncHer (SLH)** is an open-source Minecraft launcher focused on powerful instance management, customization, modding and a clean desktop experience.
 
-SLH is currently developed primarily as a **portable Windows x64 launcher**.
+SLH is currently developed primarily as a **Windows x64 launcher**.
 
 ## Features
 
