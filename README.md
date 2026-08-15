@@ -100,4 +100,4 @@ The UI is a React application displayed by WebView2. Rust/Tauri performs privile
 
 ## License
 
-SLH is released under the GNU General Public License v3.0 (GPLv3). See [LICENSE](LICENSE).
+SLH is released under the GNU General Public License v3.0 only (GPL-3.0-only). See [LICENSE](LICENSE).
