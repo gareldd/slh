@@ -95,4 +95,4 @@ cargo test --manifest-path src-tauri/Cargo.toml
 
 ## Лицензия
 
-SLH распространяется по лицензии GNU General Public License v3.0 (GPLv3). См. файл [LICENSE](LICENSE).
+SLH распространяется только по лицензии GNU General Public License v3.0 (GPL-3.0-only). См. файл [LICENSE](LICENSE).
