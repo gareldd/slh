@@ -95,4 +95,4 @@ Die React-Oberfläche wird in WebView2 angezeigt. Rust/Tauri erledigt privilegie
 
 ## Lizenz
 
-SLH wird unter der GNU General Public License v3.0 (GPLv3) veröffentlicht. Siehe [LICENSE](LICENSE).
+SLH wird ausschließlich unter der GNU General Public License v3.0 (GPL-3.0-only) veröffentlicht. Siehe [LICENSE](LICENSE).
